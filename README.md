@@ -19,7 +19,7 @@
 Coursera中[机器学习](https://www.coursera.org/learn/machine-learning/resources/JXWWS)课程，Andrew Ng讲授。
 根据视频内容，对每一讲的名称可能会有所更改（以更好的体现各讲的教学内容）。
 
-- 【第1讲】 机器学习的动机与应用（主要是课程要求与应用范例，没有涉及机器学习的具体计算内容）
+- 【第1讲】 [机器学习的动机与应用](chapter01.ipynb)
 - 【第2讲】 [监督学习应用-线性回归](chapter02.ipynb)
 - 【第3讲】 [线性回归的概率解释、局部加权回归、逻辑回归](chapter03.ipynb)
 - 【第4讲】 [牛顿法、一般线性模型](chapter04.ipynb)
