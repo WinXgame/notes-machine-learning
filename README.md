@@ -13,7 +13,10 @@
 ## 目录
 
 来自斯坦福网络课程《机器学习》的笔记，可以在[斯坦福大学公开课：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)观看。
+
 大纲及材料在：[CS 229: Machine Learning (Course handouts)](http://cs229.stanford.edu/syllabus.html)，同样非常详细。
+
+Coursera中[机器学习](https://www.coursera.org/learn/machine-learning/resources/JXWWS)课程，Andrew Ng讲授。
 根据视频内容，对每一讲的名称可能会有所更改（以更好的体现各讲的教学内容）。
 
 - 【第1讲】 机器学习的动机与应用（主要是课程要求与应用范例，没有涉及机器学习的具体计算内容）
