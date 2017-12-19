@@ -2,11 +2,11 @@
 
 ## 简介
 
-**作者：TQ**
+**作者：xxx**
 
 机器学习笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
 
-`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.jupyter.org/github/zlotus/notes-LSJU-machine-learning/blob/master/ReadMe.ipynb?flush_cache=true) 中查看该项目。
+`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.jupyter.org/github/WinXgame/notes--machine-learning/README.md?flush_cache=true) 中查看该项目。
 
 ----
 
